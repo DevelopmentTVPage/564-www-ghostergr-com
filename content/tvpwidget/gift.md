@@ -1,6 +1,6 @@
 {
     "type": "carousel",
-    "title": "Gift",
+    "title": "What is this",
     "name": "gift",
     "channelId": "139542446",
     "layout": "bootstrap",
@@ -11,5 +11,13 @@
         ".widget-modal-header": {
             "widget_modal_header_border_width": "19"
         }
-    }
+    },
+    "advertising": {
+        "enabled": false,
+        "adServerUrl": null,
+        "adTimeout": 2000,
+        "maxAds": 100,
+        "adInterval": 0
+    },
+    "preload": false
 }
