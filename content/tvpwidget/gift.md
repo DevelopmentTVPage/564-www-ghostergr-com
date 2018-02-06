@@ -2,7 +2,7 @@
     "type": "carousel",
     "title": "What is this",
     "name": "gift",
-    "channelId": "139542446",
+    "channelId": "139542442",
     "layout": "bootstrap",
     "css": {
         ".widget-body": {
